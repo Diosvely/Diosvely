@@ -8,7 +8,7 @@
 
 🔗 www.linkedin.com/in/diosvelyperezartea
 
-
+![Banner](https://ejemplo.com/banner.gif)
 ---
 
 ## 🚀 Sobre mí
