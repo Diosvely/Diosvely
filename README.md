@@ -8,7 +8,7 @@
 
 🔗 www.linkedin.com/in/diosvelyperezartea
 
-![Banner](https://ejemplo.com/banner.gif)
+
 ---
 
 ## 🚀 Sobre mí
@@ -28,7 +28,7 @@
 ## 📊 Estadísticas de GitHub
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact
+
 
 
 ✨ **¡Gracias por visitar mi perfil!** ✨
