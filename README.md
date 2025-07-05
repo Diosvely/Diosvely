@@ -3,7 +3,9 @@
 ### Analista de Datos 
 
 📍 España 
+
 📧 diosvely87@gmail.com 
+
 🔗 www.linkedin.com/in/diosvelyperezartea
 
 
