@@ -6,11 +6,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Analista+de+Datos;+;Apasionado+por+los+datos"></a>
 </p>
 
- <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+ <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <br>
 
 ## I'm a Associate Software Engineer at Acentura
-
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
