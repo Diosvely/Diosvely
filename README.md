@@ -17,7 +17,8 @@
 
 - 📊 Analista de Datos certificado por Microsoft (PL-300) | Transformo datos en insights claros para la toma de decisiones
 - 📈 Enfoque: Limpieza de datos, modelado eficiente y storytelling con Power BI.
-- 📫 ¡Conectemos Email! diosvely87@gmail.com | Abierto a colaboraciones en proyectos de datos.
+- 📫 ¡Conectemos Email! diosvely87@gmail.com | Abierto a colaboraciones.
+  
 -💡 Mi lema: "Los datos no mienten, pero necesitan quien les dé voz."
 
 	
