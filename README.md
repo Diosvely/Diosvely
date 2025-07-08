@@ -17,7 +17,7 @@
 
 - 📊 Analista de Datos certificado por Microsoft (PL-300) | Transformo datos en insights claros para la toma de decisiones
 - 📈 Enfoque: Limpieza de datos, modelado eficiente y storytelling con Power BI.
-- 📫 ¡Conectemos! [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com) | Abierto a colaboraciones en proyectos de datos.
+- 📫 ¡Conectemos! [![Send me Email](https://img.shields.io/static/v1?label=email&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com) | Abierto a colaboraciones en proyectos de datos.
 -💡 Mi lema: "Los datos no mienten, pero necesitan quien les dé voz."
 
 	
