@@ -9,7 +9,7 @@
 
 <br>
 
-<!--About Me-->
+<!--Acerca de Mi-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
@@ -18,8 +18,7 @@
 - 📊 Analista de Datos certificado por Microsoft (PL-300) | Transformo datos en insights claros para la toma de decisiones
 - 📈 Enfoque: Limpieza de datos, modelado eficiente y storytelling con Power BI.
 - 📫 ¡Conectemos Email! diosvely87@gmail.com | Abierto a colaboraciones.
-  
--💡 Mi lema: "Los datos no mienten, pero necesitan quien les dé voz."
+- 💡 Mi lema: "Los datos no mienten, pero necesitan quien les dé voz."
 
 	
 <!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de Mi**
