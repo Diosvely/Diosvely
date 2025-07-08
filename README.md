@@ -1,7 +1,9 @@
 <!-- Inicio Nombre -->
+
 <h1 align="center"><b>Hola, Me llamo Diosvely Perez Arteaga </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Texto Interactivo -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+un+apasionado+por+los+datos;+;Utiliza+lo+que+nececites+en+mi+Repo;+;SOMOS+COMUNIDAD"></a>
 </p>
@@ -11,7 +13,7 @@
 
 <!--Acerca de Mi-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de Mi
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
