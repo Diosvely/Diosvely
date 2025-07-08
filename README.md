@@ -9,13 +9,14 @@
  <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <br>
 
-## I'm a Associate Software Engineer at Acentura
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+📊 **Especialista en transformar datos en decisiones** | Power BI | SQL | Excel Avanzado | DAX  
 
----
-
+    title Habilidades Clave
+    "Power BI" : 35
+    "Análisis de Datos" : 25
+    "Visualización" : 20
+    "SQL" : 15
+    "ETL" : 5
 
 	
 <!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de Mi**
