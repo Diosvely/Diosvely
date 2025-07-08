@@ -3,20 +3,11 @@
 
 <!-- Texto Interactivo -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Analista+de+Datos;+;Apasionado+por+los+datos"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=;Soy+un+apasionado+por+los+datos"></a>
 </p>
 
  <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <br>
-
-📊 **Especialista en transformar datos en decisiones** | Power BI | SQL | Excel Avanzado | DAX  
-
-    title Habilidades Clave
-    "Power BI" : 35
-    "Análisis de Datos" : 25
-    "Visualización" : 20
-    "SQL" : 15
-    "ETL" : 5
 
 	
 <!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de Mi**
