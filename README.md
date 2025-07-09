@@ -52,29 +52,17 @@
 
 [![Power BI Portfolio](https://img.shields.io/badge/📊-Power_BI_Portfolio-FF9E0F?style=for-the-badge&logo=powerbi&logoColor=white)](https://tuurl-powerbi.com)
 
-[![GitHub Projects](https://img.shields.io/badge/🐙-GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diosvely?tab=repositories)
+[![Excel Protectos](https://img.shields.io/badge/📊-Excel_Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=excel)
 
-[![SQL Solutions](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://tuurl-sql.com)
+[![SQL Consultas](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://tuurl-sql.com)
 
-
-<br>
-
-### 📈 Estadísticas GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diosvely&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diosvely&layout=compact&langs_count=8&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diosvely&theme=radical" alt="Diosvely" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diosvely&theme=radical&no-frame=true&row=1&column=7" alt="Diosvely" />
-</p>
+[![Python Proyectos](https://img.shields.io/badge/🐍-Python_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=python)
 
 <br>
 
 
 ### 🌟 Contribuciones Gráficas
-![Snake animation](https://github.com/Diosvely/Diosvely/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Diosvely/Diosvely/output/github-contribution-grid-snake.svg)
 
 <br>
 
