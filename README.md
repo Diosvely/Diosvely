@@ -22,8 +22,10 @@
 - 📫 ¡Conectemos Email! diosvely87@gmail.com | Abierto a colaboraciones.
 - 💡 Mi lema: "Los datos no mienten, pero necesitan quien les dé voz."
 
-<!--Sitios de la Red-->
+
+<!--Sitios de la Red donde pueden encontrarme-->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Diosvely) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='dev' height='40'>](https://www.linkedin.com/in/diosvelyperezarteaga) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](Poner/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](poner) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='stackoverflow' height='40'>](poner)  
+
 
 
 <!--Herramientas que domino -->
@@ -44,27 +46,30 @@
 
 
 
-<!--Revisar -->
+<!--aqui pongo los enlaces a los proyectos mas destacados -->
 
 <br>
 
 ### 📂 Portafolios Destacados
 
-[![Power BI Portfolio](https://img.shields.io/badge/📊-Power_BI_Portfolio-FF9E0F?style=for-the-badge&logo=powerbi&logoColor=white)](https://tuurl-powerbi.com)
+[![Power BI ](https://img.shields.io/badge/📊-Power_BI_Portfolio-FF9E0F?style=for-the-badge&logo=powerbi&logoColor=white)](https://tuurl-powerbi.com)
 
-[![Excel Protectos](https://img.shields.io/badge/📊-Excel_Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=excel)
+[![Excel](https://img.shields.io/badge/📊-Excel_Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=excel)
 
-[![SQL Consultas](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://tuurl-sql.com)
+[![SQL](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://tuurl-sql.com)
 
-[![Python Proyectos](https://img.shields.io/badge/🐍-Python_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=python)
+[![Python](https://img.shields.io/badge/🐍-Python_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=python)
 
 <br>
 
+<!--Grafica para que se vea mi contribucion en GIT -->
 
 ### 🌟 Contribuciones Gráficas
 ![Snake animation](https://raw.githubusercontent.com/Diosvely/Diosvely/output/github-contribution-grid-snake.svg)
 
 <br>
+
+<!--Despedida del Pelfil -->
 
 ### 🚀 Despedida
 <p align="center">
