@@ -26,9 +26,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Diosvely) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='dev' height='40'>](https://www.linkedin.com/in/diosvelyperezarteaga) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](Poner/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](poner) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='stackoverflow' height='40'>](poner)  
 
 
-<!--Herramientas que domino
-
-### Lenguaje y Herramientas  -->
+<!--Herramientas que domino -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Mis Herramientas de trabajo...*** 🛠
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
@@ -45,6 +43,49 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
+<!--Revisar -->
 
+<br>
+
+### 📂 Portafolios Destacados
+[![Power BI Portfolio](https://img.shields.io/badge/📊-Power_BI_Portfolio-FF9E0F?style=for-the-badge&logo=powerbi&logoColor=white)](https://tuurl-powerbi.com)
+[![GitHub Projects](https://img.shields.io/badge/🐙-GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diosvely?tab=repositories)
+[![SQL Solutions](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://tuurl-sql.com)
+
+<br>
+
+### 📈 Estadísticas GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diosvely&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diosvely&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diosvely&theme=radical" alt="Diosvely" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diosvely&theme=radical&no-frame=true&row=1&column=7" alt="Diosvely" />
+</p>
+
+<br>
+
+### 🌟 Contribuciones Gráficas
+![Snake animation](https://github.com/Diosvely/Diosvely/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
+### 🚀 Despedida
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200px">
+</p>
+
+<h3 align="center">"Los datos son el lenguaje del futuro, y hoy estoy escribiendo mi capítulo"</h3>
+
+<p align="center">
+  <a href="https://github.com/Diosvely">
+    <img src="https://komarev.com/ghpvc/?username=Diosvely&label=Profile%20views&color=0e75b6&style=flat" alt="Diosvely" />
+  </a>
+  <a href="https://github.com/Diosvely?tab=followers">
+    <img src="https://img.shields.io/github/followers/Diosvely?label=Follow&style=social" alt="Follow">
+  </a>
+</p>
 
 
