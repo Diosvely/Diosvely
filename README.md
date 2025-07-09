@@ -46,7 +46,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,postgres,git,vscode,powerbi=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,postgres,git,vscode,powerbi&perline=10"  />
 </p>
 <br />
 
