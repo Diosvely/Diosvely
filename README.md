@@ -43,14 +43,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,postgres,git,vscode,powerbi&perline=10"  />
-</p>
-<br />
-
-
 
 <!--Revisar -->
 
