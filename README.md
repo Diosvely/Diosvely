@@ -52,11 +52,11 @@
 
 ### 📂 Portafolios Destacados
 
-[![Power BI ](https://img.shields.io/badge/📊-Power_BI_Portfolio-FF9E0F?style=for-the-badge&logo=powerbi&logoColor=white)](https://tuurl-powerbi.com)
+[![Power BI ](https://img.shields.io/badge/📊-Power_BI_Portfolio-FF9E0F?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=PowerBI)
 
 [![Excel](https://img.shields.io/badge/📊-Excel_Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=excel)
 
-[![SQL](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://tuurl-sql.com)
+[![SQL](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=sqL)
 
 [![Python](https://img.shields.io/badge/🐍-Python_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=python)
 
