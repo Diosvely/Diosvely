@@ -43,14 +43,27 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+</p>
+<br />
+
+
+
 <!--Revisar -->
 
 <br>
 
 ### 📂 Portafolios Destacados
+
 [![Power BI Portfolio](https://img.shields.io/badge/📊-Power_BI_Portfolio-FF9E0F?style=for-the-badge&logo=powerbi&logoColor=white)](https://tuurl-powerbi.com)
+
 [![GitHub Projects](https://img.shields.io/badge/🐙-GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diosvely?tab=repositories)
+
 [![SQL Solutions](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://tuurl-sql.com)
+
 
 <br>
 
@@ -66,6 +79,7 @@
 </p>
 
 <br>
+
 
 ### 🌟 Contribuciones Gráficas
 ![Snake animation](https://github.com/Diosvely/Diosvely/blob/output/github-contribution-grid-snake-dark.svg)
