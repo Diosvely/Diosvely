@@ -5,7 +5,7 @@
 <!-- Texto Interactivo -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Soy+un+apasionado+por+los+datos;+;Este+es+mi+pequeño+Mundo;+;SOMOS+COMUNIDAD"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Apasionado+por+los+datos;+;Este+es+mi+pequeño+Mundo;+;SOMOS+COMUNIDAD"></a>
 </p>
 
 
