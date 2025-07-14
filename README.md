@@ -56,7 +56,7 @@
 
 [![Excel](https://img.shields.io/badge/📊-Excel_Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=excel)
 
-[![SQL](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=sqL)
+[![SQL](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Diosvely/SQL_ApocalipsisMutante)
 
 [![Python](https://img.shields.io/badge/🐍-Python_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=python)
 
