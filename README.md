@@ -17,10 +17,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 📊 Analista de Datos certificado por Microsoft (PL-300) | Transformo datos en insights claros para la toma de decisiones
-- 📈 Enfoque: Limpieza de datos, modelado eficiente y storytelling con Power BI.
-- 📫 ¡Conectemos Email! diosvely87@gmail.com | Abierto a colaboraciones.
-- 💡 Mi lema: "Los datos no mienten, pero necesitan quien les dé voz."
+Economista con 20 anos de experiencia en costos de produccion, cierres mensuales, presupuestos y analisis de desviaciones en industria real. SQL avanzado aplicado a contabilidad y produccion. Certificado Microsoft PL-300.
 
 
 <!--Sitios de la Red donde pueden encontrarme-->
@@ -50,15 +47,6 @@
 
 <br>
 
-### 📂 Portafolios Destacados
-
-[![Power BI ](https://img.shields.io/badge/📊-Power_BI_Portfolio-FF9E0F?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=PowerBI)
-
-[![Excel](https://img.shields.io/badge/📊-Excel_Projects-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=excel)
-
-[![SQL](https://img.shields.io/badge/🗃️-SQL_Solutions-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Diosvely/SQL_ApocalipsisMutante)
-
-[![Python](https://img.shields.io/badge/🐍-Python_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Diosvely?tab=repositories&q=python)
 
 <br>
 
