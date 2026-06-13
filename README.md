@@ -1,6 +1,6 @@
 # 👋 Hola, soy Diosvely Pérez Arteaga
 
-Economista con más de 10 años de experiencia en **costos de producción**, **cierres mensuales**, **presupuestos**, **inventarios** y **análisis de desviaciones** en industria real.  
+Economista con más de 15 años de experiencia en **costos de producción**, **cierres mensuales**, **presupuestos**, **inventarios** y **análisis de desviaciones** en industria real.  
 Hoy combino esa base financiera con un perfil técnico sólido en **SQL**, **Power BI**, **Power Query**, **Power Pivot** y **modelado de datos**.
 
 Mi enfoque siempre ha sido el mismo:  
@@ -40,7 +40,8 @@ Proyecto público donde documento todo el proceso:
 - Análisis de desviaciones Plan vs Real  
 
 > Este proyecto refleja mi enfoque: unir **finanzas + datos** para generar información útil para la toma de decisiones.
-
+> 🔗 Ver repositorio
+https://github.com/Diosvely/Finanzas-Personales-50-30-20
 ---
 
 ## 📈 Qué encontrarás en este GitHub
