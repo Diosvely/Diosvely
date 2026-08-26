@@ -1,7 +1,7 @@
 # 👋 Hola, soy Diosvely Pérez Arteaga
 
-Economista con más de 15 años de experiencia en **costos de producción**, **cierres mensuales**, **presupuestos**, **inventarios** y **análisis de desviaciones** en industria real.  
-Hoy combino esa base financiera con un perfil técnico sólido en **SQL**, **Power BI**, **Power Query**, **Power Pivot** y **modelado de datos**.
+**Analytics Engineer con visión de negocio.**  
+Economista con años de experiencia en industria real — **costos de producción**, **cierres mensuales**, **presupuestos**, **inventarios** y **análisis de desviaciones** — que hoy construye sistemas de datos de principio a fin.
 
 Mi enfoque siempre ha sido el mismo:  
 **problema real primero, herramienta después.**
@@ -9,62 +9,60 @@ Mi enfoque siempre ha sido el mismo:
 ---
 
 ## 🧠 Sobre mí
-- Más de 10 años trabajando con **costos, KPIs, análisis financiero y control de gestión**.  
-- **SQL avanzado** aplicado a contabilidad y producción (no de tutorial).  
-- Certificación **Microsoft PL‑300** (Power BI Data Analyst Associate).  
-- Título de Economía homologado en España (2026).  
-- Experiencia reconstruyendo sistemas de costos mediante **ingeniería inversa de ERP** y procedimientos almacenados.  
-- Actualmente construyendo en público un proyecto de **análisis financiero end‑to‑end**:  
-  - Excel → Modelo en estrella  
-  - ETL con Power Query  
-  - DAX para análisis Plan vs Real  
+
+- Entendiendo el negocio desde dentro: **costos, KPIs, control de gestión y producción**.  
+- **SQL y modelado de datos** aplicados a problemas reales, no de tutorial.  
+- Reconstruí un ERP (**VERSAT**) mediante **ingeniería inversa** y procedimientos almacenados, y lo distribuí a varias empresas del grupo.  
+- Certificaciones **Microsoft DP‑600** (Fabric Analytics Engineer) y **PL‑300** (Power BI).  
+- Título de Economía homologado en España.  
+- Mi diferencial: entiendo el negocio que hay detrás del dato, no solo la técnica.
 
 ---
 
 ## 🛠️ Herramientas y Tecnologías
-- **Power BI** (DAX, Power Query, Modelado de Datos)  
-- **SQL Server** (consultas, vistas, SPs, integridad referencial)  
+
+- **Microsoft Fabric** (Notebooks, SQL, modelo semántico, Direct Lake)  
+- **SQL** (consultas, vistas, SPs, integridad referencial)  
+- **Power BI** (DAX, Power Query, modelado de datos)  
 - **Excel Avanzado** (Power Pivot, automatización, dashboards)  
+- **IA aplicada a datos** (conexión de modelos semánticos vía MCP)  
 - **Git & GitHub**  
-- **Odoo** (estructura de datos y análisis)  
 
 ---
 
 ## 📂 Proyectos Destacados
-### 🔹 Presupuesto Familiar — Análisis Financiero Completo
-Proyecto público donde documento todo el proceso:
-- Normalización de datos en Excel  
-- Modelo en estrella  
-- ETL con Power Query  
-- Métricas DAX  
-- Análisis de desviaciones Plan vs Real  
 
-> Este proyecto refleja mi enfoque: unir **finanzas + datos** para generar información útil para la toma de decisiones.
-> 🔗 Ver repositorio
-https://github.com/Diosvely/Finanzas-Personales-50-30-20
+### 🔹 Presupuesto Familiar — Análisis Financiero End‑to‑End
+
+Proyecto público donde documento todo el proceso, de Excel a un modelo analítico completo:
+
+- Normalización de datos y modelo en estrella  
+- ETL con Power Query  
+- Métricas DAX y análisis de desviaciones Plan vs Real  
+- Conexión del modelo semántico con IA a través de MCP  
+
+> Refleja mi enfoque: unir **negocio + datos** para convertir información en decisiones.  
+> 🔗 [Ver repositorio](https://github.com/Diosvely/Finanzas-Personales-50-30-20)
+
 ---
 
 ## 📈 Qué encontrarás en este GitHub
+
 - Proyectos reales aplicados a negocio  
-- Modelos de datos  
+- Modelos de datos y modelos semánticos  
 - Scripts SQL  
-- Dashboards y análisis financieros  
-- Ejercicios y experimentos técnicos  
+- Análisis financieros y dashboards  
+- Experimentos con Fabric e IA aplicada a datos  
 
 ---
 
 ## 🚀 Objetivo Profesional
-Busco un puesto como **Controller de Gestión**, **Analista Financiero** o **Reporting Analyst**, donde mi combinación de **experiencia financiera + capacidades técnicas** sea un activo para el equipo.
+
+Busco un puesto como **Analytics Engineer**, **Data Analyst** o **BI Developer**, preferiblemente **en remoto**, donde combinar **ingeniería de datos con visión de negocio** sea un activo diferencial.
 
 ---
 
 ## 📫 Contacto
-**Email:** diosvely87@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/diosvelyperezarteaga
 
----
-
-## 🐍 Contribuciones
-![Snake animation](https://raw.githubusercontent.com/Diosvely/Diosvely/output/github-contribution-grid-snake.svg)
-
-> “Los datos son el lenguaje del futuro, y hoy estoy escribiendo mi capítulo.”
+📩 diosvely87@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/diosvelyperezarteaga)
