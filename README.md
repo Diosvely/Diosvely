@@ -48,7 +48,7 @@ Solución completa en producción con arquitectura medallón: ingesta
 histórica e incremental automatizada, modelado dimensional, notebook de
 testing y modelo semántico optimizado. Datos públicos actualizados
 periódicamente.
-🔗 [Ver repositorio](https://github.com/Diosvely/Gasolineras_Espana)
+🔗 [Ver repositorio](https://github.com/Diosvely/Gasolineras_Espa-a)   
 
 ### 📊 Sistema de análisis financiero — Excel, Power Pivot y DAX
 Modelo en estrella con clasificación automática de movimientos, KPIs con
