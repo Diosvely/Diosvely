@@ -1,68 +1,64 @@
 # 👋 Hola, soy Diosvely Pérez Arteaga
 
-**Analytics Engineer con visión de negocio.**  
-Economista con años de experiencia en industria real — **costos de producción**, **cierres mensuales**, **presupuestos**, **inventarios** y **análisis de desviaciones** — que hoy construye sistemas de datos de principio a fin.
+**Analytics Engineer | Microsoft Fabric · Power BI · SQL**
 
-Mi enfoque siempre ha sido el mismo:  
-**problema real primero, herramienta después.**
+Economista con 16 años dirigiendo la economía de plantas industriales
+—costes de producción, cierres mensuales, presupuestos y análisis de
+desviaciones— que hoy construye soluciones de datos de extremo a extremo.
 
----
+Mi diferencial no es la herramienta: es que **entiendo el negocio que
+hay detrás del dato**. Vengo de cerrar cuentas y calcular escandallos,
+así que sé qué preguntas tiene que responder un modelo antes de construirlo.
 
-## 🧠 Sobre mí
-
-- Entendiendo el negocio desde dentro: **costos, KPIs, control de gestión y producción**.  
-- **SQL y modelado de datos** aplicados a problemas reales, no de tutorial.  
-- Reconstruí un ERP (**VERSAT**) mediante **ingeniería inversa** y procedimientos almacenados, y lo distribuí a varias empresas del grupo.  
-- Certificaciones **Microsoft DP‑600** (Fabric Analytics Engineer) y **PL‑300** (Power BI).  
-- Título de Economía homologado en España.  
-- Mi diferencial: entiendo el negocio que hay detrás del dato, no solo la técnica.
+> **Problema real primero, herramienta después.**
 
 ---
 
-## 🛠️ Herramientas y Tecnologías
+## 🧠 De dónde vengo
 
-- **Microsoft Fabric** (Notebooks, SQL, modelo semántico, Direct Lake)  
-- **SQL** (consultas, vistas, SPs, integridad referencial)  
-- **Power BI** (DAX, Power Query, modelado de datos)  
-- **Excel Avanzado** (Power Pivot, automatización, dashboards)  
-- **IA aplicada a datos** (conexión de modelos semánticos vía MCP)  
-- **Git & GitHub**  
+Cuando el sistema de costes de mi grupo industrial (24 centros) se quedó
+sin soporte, no esperé a que lo arreglaran: hice **ingeniería inversa del
+ERP VERSAT**, aprendí SQL, reconstruí el sistema con procedimientos
+almacenados y lo desplegué en el resto de plantas. Después diseñé un
+sistema de control diario de producción que fue **premiado como innovación**.
 
----
+Esa es mi forma de trabajar, y es lo que traigo a los datos.
 
-## 📂 Proyectos Destacados
-
-### 🔹 Presupuesto Familiar — Análisis Financiero End‑to‑End
-
-Proyecto público donde documento todo el proceso, de Excel a un modelo analítico completo:
-
-- Normalización de datos y modelo en estrella  
-- ETL con Power Query  
-- Métricas DAX y análisis de desviaciones Plan vs Real  
-- Conexión del modelo semántico con IA a través de MCP  
-
-> Refleja mi enfoque: unir **negocio + datos** para convertir información en decisiones.  
-> 🔗 [Ver repositorio](https://github.com/Diosvely/Finanzas-Personales-50-30-20)
+- 🎓 Licenciado en Economía — título homologado en España
+- 📜 Microsoft Certified: **DP-600** (Fabric Analytics Engineer) y **PL-300** (Power BI)
 
 ---
 
-## 📈 Qué encontrarás en este GitHub
+## 🛠️ Stack
 
-- Proyectos reales aplicados a negocio  
-- Modelos de datos y modelos semánticos  
-- Scripts SQL  
-- Análisis financieros y dashboards  
-- Experimentos con Fabric e IA aplicada a datos  
+`Microsoft Fabric` · `SQL Server` · `Power BI / DAX` · `Power Query`
+`Power Pivot` · `Python` · `VBA` · `Git`
+
+**Fabric:** arquitectura medallón, notebooks, Dataflow Gen2, data pipelines,
+ingesta incremental, modelo semántico.
+**SQL:** consultas avanzadas, vistas, procedimientos almacenados, parametrización.
+**Modelado:** modelo dimensional en estrella, DAX, optimización de modelos.
 
 ---
 
-## 🚀 Objetivo Profesional
+## 📂 Proyectos destacados
 
-Busco un puesto como **Analytics Engineer**, **Data Analyst** o **BI Developer**, preferiblemente **en remoto**, donde combinar **ingeniería de datos con visión de negocio** sea un activo diferencial.
+### ⛽ Precios de carburantes en España — pipeline en Microsoft Fabric
+Solución completa en producción con arquitectura medallón: ingesta
+histórica e incremental automatizada, modelado dimensional, notebook de
+testing y modelo semántico optimizado. Datos públicos actualizados
+periódicamente.
+🔗 [Ver repositorio](https://github.com/Diosvely/Gasolineras_Espana)
+
+### 📊 Sistema de análisis financiero — Excel, Power Pivot y DAX
+Modelo en estrella con clasificación automática de movimientos, KPIs con
+semáforos, acumulados YTD, automatización en VBA y cuadro de desviaciones
+plan vs. real en DAX.
+🔗 [Ver repositorio](https://github.com/Diosvely/Finanzas-Personales-50-30-20)
 
 ---
 
 ## 📫 Contacto
 
-📩 diosvely87@gmail.com  
+📩 diosvely87@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/diosvelyperezarteaga)
